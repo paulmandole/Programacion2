@@ -1,0 +1,12 @@
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\bin\Debug\net5.0\GestorDeArchivos.deps.json
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\bin\Debug\net5.0\GestorDeArchivos.dll
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\bin\Debug\net5.0\GestorDeArchivos.pdb
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.dll
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\obj\Debug\net5.0\refint\GestorDeArchivos.dll
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.pdb
+F:\practica de clases hechas por mi\Clase14ArchivosYserializacion\GestorDeArchivos\obj\Debug\net5.0\ref\GestorDeArchivos.dll

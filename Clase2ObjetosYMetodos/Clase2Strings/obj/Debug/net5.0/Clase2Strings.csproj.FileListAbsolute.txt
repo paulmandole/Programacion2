@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\bin\Debug\net5.0\Clase2Strings.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\bin\Debug\net5.0\Clase2Strings.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\bin\Debug\net5.0\Clase2Strings.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\bin\Debug\net5.0\Clase2Strings.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\bin\Debug\net5.0\Clase2Strings.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\bin\Debug\net5.0\Clase2Strings.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\Clase2Strings.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\Clase2Strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\Clase2Strings.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\Clase2Strings.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\Clase2Strings.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\Clase2Strings.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\refint\Clase2Strings.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\Clase2Strings.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\Clase2Strings.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase2Strings\obj\Debug\net5.0\ref\Clase2Strings.dll

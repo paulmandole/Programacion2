@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\bin\Debug\net5.0\Clase10 Execepciones.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\bin\Debug\net5.0\Clase10 Execepciones.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\bin\Debug\net5.0\Clase10 Execepciones.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\bin\Debug\net5.0\Clase10 Execepciones.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\bin\Debug\net5.0\Clase10 Execepciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\bin\Debug\net5.0\Clase10 Execepciones.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\Clase10 Execepciones.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\Clase10 Execepciones.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\Clase10 Execepciones.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\Clase10 Execepciones.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\Clase10 Execepciones.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\Clase10 Execepciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\refint\Clase10 Execepciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\Clase10 Execepciones.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\Clase10 Execepciones.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase10 Execepciones\obj\Debug\net5.0\ref\Clase10 Execepciones.dll

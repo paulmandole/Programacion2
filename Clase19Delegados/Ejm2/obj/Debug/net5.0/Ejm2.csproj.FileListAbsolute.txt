@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\bin\Debug\net5.0\Ejm2.exe
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\bin\Debug\net5.0\Ejm2.deps.json
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\bin\Debug\net5.0\Ejm2.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\bin\Debug\net5.0\Ejm2.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\bin\Debug\net5.0\Ejm2.dll
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\bin\Debug\net5.0\Ejm2.pdb
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\Ejm2.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\Ejm2.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\Ejm2.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\Ejm2.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\Ejm2.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\Ejm2.dll
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\refint\Ejm2.dll
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\Ejm2.pdb
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\Ejm2.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase19Delegados\Ejm2\obj\Debug\net5.0\ref\Ejm2.dll

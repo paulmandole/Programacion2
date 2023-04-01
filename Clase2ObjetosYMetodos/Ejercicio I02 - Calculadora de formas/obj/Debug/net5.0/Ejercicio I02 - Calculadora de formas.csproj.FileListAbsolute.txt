@@ -1,0 +1,19 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\bin\Debug\net5.0\Ejercicio I02 - Calculadora de formas.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\bin\Debug\net5.0\Ejercicio I02 - Calculadora de formas.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\bin\Debug\net5.0\Ejercicio I02 - Calculadora de formas.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\bin\Debug\net5.0\Ejercicio I02 - Calculadora de formas.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\bin\Debug\net5.0\Ejercicio I02 - Calculadora de formas.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\bin\Debug\net5.0\Ejercicio I02 - Calculadora de formas.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\bin\Debug\net5.0\BibliotecaClase9.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\bin\Debug\net5.0\BibliotecaClase9.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\Ejercicio I02 - Calculadora de formas.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\Ejercicio I02 - Calculadora de formas.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\Ejercicio I02 - Calculadora de formas.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\Ejercicio I02 - Calculadora de formas.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\Ejercicio I02 - Calculadora de formas.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\Ejercicio I02 - Calculadora de formas.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\Ejercicio I02 - Calculadora de formas.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\refint\Ejercicio I02 - Calculadora de formas.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\Ejercicio I02 - Calculadora de formas.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\Ejercicio I02 - Calculadora de formas.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Calculadora de formas\obj\Debug\net5.0\ref\Ejercicio I02 - Calculadora de formas.dll

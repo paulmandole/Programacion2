@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase14ArchivosYserializacion", "Clase14ArchivosYserializacion\Clase14ArchivosYserializacion.csproj", "{9C0C1062-6066-48B2-A4BE-F1A80C82E00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorDeArchivos", "GestorDeArchivos\GestorDeArchivos.csproj", "{69EBD51C-0011-4CA2-AC05-6C87BE55CBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0C1062-6066-48B2-A4BE-F1A80C82E00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0C1062-6066-48B2-A4BE-F1A80C82E00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0C1062-6066-48B2-A4BE-F1A80C82E00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0C1062-6066-48B2-A4BE-F1A80C82E00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69EBD51C-0011-4CA2-AC05-6C87BE55CBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EBD51C-0011-4CA2-AC05-6C87BE55CBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EBD51C-0011-4CA2-AC05-6C87BE55CBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EBD51C-0011-4CA2-AC05-6C87BE55CBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB98062-7D8A-4B63-AD45-6652CB119C2F}
+	EndGlobalSection
+EndGlobal

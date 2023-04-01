@@ -1,0 +1,5 @@
+F:\practica de clases hechas por mi\Clase19Delegados\ejm5\obj\Debug\net5.0\ejm5.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase19Delegados\ejm5\obj\Debug\net5.0\ejm5.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase19Delegados\ejm5\obj\Debug\net5.0\ejm5.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase19Delegados\ejm5\obj\Debug\net5.0\ejm5.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase19Delegados\ejm5\obj\Debug\net5.0\ejm5.csproj.CoreCompileInputs.cache

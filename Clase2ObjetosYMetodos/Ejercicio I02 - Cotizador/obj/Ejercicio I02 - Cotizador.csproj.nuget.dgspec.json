@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Ejercicio I02 - Cotizador\\Ejercicio I02 - Cotizador.csproj": {}
+  },
+  "projects": {
+    "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Billetes\\Billetes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Billetes\\Billetes.csproj",
+        "projectName": "Billetes",
+        "projectPath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Billetes\\Billetes.csproj",
+        "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
+        "outputPath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Billetes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Ejercicio I02 - Cotizador\\Ejercicio I02 - Cotizador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Ejercicio I02 - Cotizador\\Ejercicio I02 - Cotizador.csproj",
+        "projectName": "Ejercicio I02 - Cotizador",
+        "projectPath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Ejercicio I02 - Cotizador\\Ejercicio I02 - Cotizador.csproj",
+        "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
+        "outputPath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Ejercicio I02 - Cotizador\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Billetes\\Billetes.csproj": {
+                "projectPath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Billetes\\Billetes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

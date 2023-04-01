@@ -1,0 +1,22 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\bin\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\bin\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\bin\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\bin\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\bin\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\bin\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.csproj.GenerateResource.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\refint\Ejercicio C01 - Cotizador desktop.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio C01 - Cotizador desktop.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\ref\Ejercicio C01 - Cotizador desktop.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio_C01___Cotizador_desktop.FormConversor.resources
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\obj\Debug\net5.0-windows\Ejercicio_C01___Cotizador_desktop.Properties.Resources.resources
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\bin\Debug\net5.0-windows\Billetes.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - Cotizador desktop\bin\Debug\net5.0-windows\Billetes.pdb

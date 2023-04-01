@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dPoSUaY5N1mfZrbpwU152ux/CwFREZ0snc4OkRKIibSxZjeZ2q62iOm4LgKbaFWnAz8VYHDGynhxKHZKXxazw==",
+  "success": true,
+  "projectFilePath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Geometria\\Geometria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

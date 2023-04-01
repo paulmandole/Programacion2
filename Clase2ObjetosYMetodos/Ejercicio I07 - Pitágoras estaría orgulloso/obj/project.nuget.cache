@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e6PDdIXZfP0j1pxNJafJ/v3bm1wu6TI+VGA3q+ktW0oYY4b3FcfMyF4pwZfVnjAY2dqghQxzNQZBHCrbexGKDg==",
+  "success": true,
+  "projectFilePath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Ejercicio I07 - Pitágoras estaría orgulloso\\Ejercicio I07 - Pitágoras estaría orgulloso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

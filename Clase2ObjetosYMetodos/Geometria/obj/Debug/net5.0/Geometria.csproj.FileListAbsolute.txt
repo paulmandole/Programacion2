@@ -1,0 +1,12 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\bin\Debug\net5.0\Geometria.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\bin\Debug\net5.0\Geometria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\obj\Debug\net5.0\Geometria.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\obj\Debug\net5.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\obj\Debug\net5.0\Geometria.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\obj\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\obj\Debug\net5.0\refint\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\obj\Debug\net5.0\Geometria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Geometria\obj\Debug\net5.0\ref\Geometria.dll

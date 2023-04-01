@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\bin\Debug\net5.0\ClaseRepasoExcepciones.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\bin\Debug\net5.0\ClaseRepasoExcepciones.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\bin\Debug\net5.0\ClaseRepasoExcepciones.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\bin\Debug\net5.0\ClaseRepasoExcepciones.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\bin\Debug\net5.0\ClaseRepasoExcepciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\bin\Debug\net5.0\ClaseRepasoExcepciones.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\ClaseRepasoExcepciones.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\ClaseRepasoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\ClaseRepasoExcepciones.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\ClaseRepasoExcepciones.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\ClaseRepasoExcepciones.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\ClaseRepasoExcepciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\refint\ClaseRepasoExcepciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\ClaseRepasoExcepciones.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\ClaseRepasoExcepciones.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\ClaseRepasoExcepciones\obj\Debug\net5.0\ref\ClaseRepasoExcepciones.dll

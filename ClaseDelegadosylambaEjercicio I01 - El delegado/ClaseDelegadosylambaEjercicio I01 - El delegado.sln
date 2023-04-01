@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "ClaseDelegadosylambaEjercicio I01 - El delegado\Biblioteca.csproj", "{31ACBE0C-6EB7-462F-82BB-A9DCF8CA0176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmPrincipal", "FrmPrincipal\FrmPrincipal.csproj", "{14CF461B-34A5-460B-BADB-AE469651DBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31ACBE0C-6EB7-462F-82BB-A9DCF8CA0176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ACBE0C-6EB7-462F-82BB-A9DCF8CA0176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ACBE0C-6EB7-462F-82BB-A9DCF8CA0176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ACBE0C-6EB7-462F-82BB-A9DCF8CA0176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CF461B-34A5-460B-BADB-AE469651DBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CF461B-34A5-460B-BADB-AE469651DBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CF461B-34A5-460B-BADB-AE469651DBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CF461B-34A5-460B-BADB-AE469651DBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C226952-A7AC-42DA-B392-8A6CB02FA4C3}
+	EndGlobalSection
+EndGlobal

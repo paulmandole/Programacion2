@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Ejercicio I02 - Consultaste el índice.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Ejercicio I02 - Consultaste el índice.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Ejercicio I02 - Consultaste el índice.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Ejercicio I02 - Consultaste el índice.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Ejercicio I02 - Consultaste el índice.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Ejercicio I02 - Consultaste el índice.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\bin\Debug\net5.0\Geometria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\Ejercicio I02 - Consultaste el índice.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\Ejercicio I02 - Consultaste el índice.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\Ejercicio I02 - Consultaste el índice.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\Ejercicio I02 - Consultaste el índice.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\Ejercicio I02 - Consultaste el índice.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\Ejercicio I02 - Consultaste el índice.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\Ejercicio I02 - Consultaste el índice.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\refint\Ejercicio I02 - Consultaste el índice.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\Ejercicio I02 - Consultaste el índice.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\Ejercicio I02 - Consultaste el índice.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Consultaste el índice\obj\Debug\net5.0\ref\Ejercicio I02 - Consultaste el índice.dll

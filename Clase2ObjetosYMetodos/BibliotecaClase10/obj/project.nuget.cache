@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fgnh0t8qeIF2b3BhncWQPpcvYyOvuUh/9IftwIObXV6G05iYCSsvzwrH5bT1Y6Zv6ZCp3vxrA2uHzx03a2e1JQ==",
+  "success": true,
+  "projectFilePath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\BibliotecaClase10\\BibliotecaClase10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

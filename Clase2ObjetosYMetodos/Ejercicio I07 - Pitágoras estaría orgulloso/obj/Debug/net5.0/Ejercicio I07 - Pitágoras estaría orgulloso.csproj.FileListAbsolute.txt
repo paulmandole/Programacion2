@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\refint\Ejercicio I07 - Pitágoras estaría orgulloso.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\Ejercicio I07 - Pitágoras estaría orgulloso.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net5.0\ref\Ejercicio I07 - Pitágoras estaría orgulloso.dll

@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\refint\Ejercicio I01 - Números locos.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Números locos\obj\Debug\net5.0\ref\Ejercicio I01 - Números locos.dll

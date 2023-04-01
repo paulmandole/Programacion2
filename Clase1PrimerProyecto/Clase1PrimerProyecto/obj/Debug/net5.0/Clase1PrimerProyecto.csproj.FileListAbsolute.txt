@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\bin\Debug\net5.0\Clase1PrimerProyecto.exe
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\bin\Debug\net5.0\Clase1PrimerProyecto.deps.json
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\bin\Debug\net5.0\Clase1PrimerProyecto.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\bin\Debug\net5.0\Clase1PrimerProyecto.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\bin\Debug\net5.0\Clase1PrimerProyecto.dll
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\bin\Debug\net5.0\Clase1PrimerProyecto.pdb
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\Clase1PrimerProyecto.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\Clase1PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\Clase1PrimerProyecto.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\Clase1PrimerProyecto.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\Clase1PrimerProyecto.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\Clase1PrimerProyecto.dll
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\refint\Clase1PrimerProyecto.dll
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\Clase1PrimerProyecto.pdb
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\Clase1PrimerProyecto.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Clase1PrimerProyecto\obj\Debug\net5.0\ref\Clase1PrimerProyecto.dll

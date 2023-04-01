@@ -1,0 +1,12 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\bin\Debug\net5.0\BibliotecaCentralita.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\bin\Debug\net5.0\BibliotecaCentralita.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\bin\Debug\net5.0\BibliotecaCentralita.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\obj\Debug\net5.0\BibliotecaCentralita.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\obj\Debug\net5.0\BibliotecaCentralita.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\obj\Debug\net5.0\BibliotecaCentralita.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\obj\Debug\net5.0\BibliotecaCentralita.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\obj\Debug\net5.0\BibliotecaCentralita.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\obj\Debug\net5.0\BibliotecaCentralita.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\obj\Debug\net5.0\refint\BibliotecaCentralita.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\obj\Debug\net5.0\BibliotecaCentralita.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaCentralita\obj\Debug\net5.0\ref\BibliotecaCentralita.dll

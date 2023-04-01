@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseGenericsEjercicio I01 - Torneo", "ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo.csproj", "{6B1AEC6F-ADAA-4BF6-A70C-4CEF00A3724E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{E5E926C5-49B9-447A-8650-2C9F1ED26137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B1AEC6F-ADAA-4BF6-A70C-4CEF00A3724E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1AEC6F-ADAA-4BF6-A70C-4CEF00A3724E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1AEC6F-ADAA-4BF6-A70C-4CEF00A3724E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1AEC6F-ADAA-4BF6-A70C-4CEF00A3724E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E926C5-49B9-447A-8650-2C9F1ED26137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E926C5-49B9-447A-8650-2C9F1ED26137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E926C5-49B9-447A-8650-2C9F1ED26137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E926C5-49B9-447A-8650-2C9F1ED26137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7199E555-B8F7-44D4-8087-1D55FA2474CB}
+	EndGlobalSection
+EndGlobal

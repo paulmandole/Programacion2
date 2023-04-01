@@ -1,0 +1,19 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\BibliotecaClase9.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\BibliotecaClase9.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\refint\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\ref\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.dll

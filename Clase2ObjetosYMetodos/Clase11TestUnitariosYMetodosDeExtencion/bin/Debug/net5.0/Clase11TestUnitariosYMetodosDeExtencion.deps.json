@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase11TestUnitariosYMetodosDeExtencion/1.0.0": {
+        "dependencies": {
+          "BibliotecaClase11": "1.0.0"
+        },
+        "runtime": {
+          "Clase11TestUnitariosYMetodosDeExtencion.dll": {}
+        }
+      },
+      "BibliotecaClase11/1.0.0": {
+        "runtime": {
+          "BibliotecaClase11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase11TestUnitariosYMetodosDeExtencion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaClase11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

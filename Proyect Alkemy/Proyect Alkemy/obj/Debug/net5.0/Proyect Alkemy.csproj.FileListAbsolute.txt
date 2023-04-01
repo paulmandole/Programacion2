@@ -1,0 +1,28 @@
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\appsettings.Development.json
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\appsettings.json
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Proyect Alkemy.exe
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Proyect Alkemy.deps.json
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Proyect Alkemy.runtimeconfig.json
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Proyect Alkemy.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Proyect Alkemy.dll
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Proyect Alkemy.pdb
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.MvcApplicationPartsAssemblyInfo.cs
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.MvcApplicationPartsAssemblyInfo.cache
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\scopedcss\bundle\Proyect Alkemy.styles.css
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\staticwebassets\Proyect Alkemy.StaticWebAssets.Manifest.cache
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.RazorTargetAssemblyInfo.cache
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.csproj.CopyComplete
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.dll
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\refint\Proyect Alkemy.dll
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.pdb
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\Proyect Alkemy.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Proyect Alkemy\Proyect Alkemy\obj\Debug\net5.0\ref\Proyect Alkemy.dll

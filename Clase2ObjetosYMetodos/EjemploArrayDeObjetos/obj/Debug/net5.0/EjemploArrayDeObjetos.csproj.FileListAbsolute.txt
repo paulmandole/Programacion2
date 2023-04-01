@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\bin\Debug\net5.0\EjemploArrayDeObjetos.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\bin\Debug\net5.0\EjemploArrayDeObjetos.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\bin\Debug\net5.0\EjemploArrayDeObjetos.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\bin\Debug\net5.0\EjemploArrayDeObjetos.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\bin\Debug\net5.0\EjemploArrayDeObjetos.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\bin\Debug\net5.0\EjemploArrayDeObjetos.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\EjemploArrayDeObjetos.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\EjemploArrayDeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\EjemploArrayDeObjetos.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\EjemploArrayDeObjetos.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\EjemploArrayDeObjetos.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\EjemploArrayDeObjetos.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\refint\EjemploArrayDeObjetos.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\EjemploArrayDeObjetos.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\EjemploArrayDeObjetos.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\EjemploArrayDeObjetos\obj\Debug\net5.0\ref\EjemploArrayDeObjetos.dll

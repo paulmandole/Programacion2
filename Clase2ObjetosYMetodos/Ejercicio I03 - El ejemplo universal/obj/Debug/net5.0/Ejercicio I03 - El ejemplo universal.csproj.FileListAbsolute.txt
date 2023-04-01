@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\refint\Ejercicio I03 - El ejemplo universal.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\ref\Ejercicio I03 - El ejemplo universal.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Geometria.pdb

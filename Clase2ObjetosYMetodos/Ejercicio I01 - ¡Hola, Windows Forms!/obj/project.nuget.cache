@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c+D0rBEPFlim3Ily5iFdJCJFpSAfarSCD7GwmACCGTMGJgzMHQpMzB6P3p6+N1Jyq6JJSW4WDulUaN4R6TI/3g==",
+  "success": true,
+  "projectFilePath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\Ejercicio I01 - ¡Hola, Windows Forms!\\Ejercicio I01 - ¡Hola, Windows Forms!.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ejercicio_I01___Sobre_sobrescribiendo_esas_advertencias</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotecaClase9\BibliotecaClase9.csproj" />
+  </ItemGroup>
+
+</Project>

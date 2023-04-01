@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\bin\Debug\net5.0\Geometria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\refint\Ejercicio I01 - Sumador.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Sumador\obj\Debug\net5.0\ref\Ejercicio I01 - Sumador.dll

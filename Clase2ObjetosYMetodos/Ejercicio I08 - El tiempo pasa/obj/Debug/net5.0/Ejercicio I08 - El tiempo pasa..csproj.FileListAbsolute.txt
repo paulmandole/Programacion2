@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa..exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa..deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa..runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa..runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa..dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa..pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa..csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa..GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa..AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa..AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa..csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa..dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\refint\Ejercicio I08 - El tiempo pasa..dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa..pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa..genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\ref\Ejercicio I08 - El tiempo pasa..dll

@@ -1,0 +1,12 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\bin\Debug\net5.0\Billetes.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\bin\Debug\net5.0\Billetes.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\bin\Debug\net5.0\Billetes.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\obj\Debug\net5.0\Billetes.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\obj\Debug\net5.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\obj\Debug\net5.0\Billetes.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\obj\Debug\net5.0\Billetes.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\obj\Debug\net5.0\refint\Billetes.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\obj\Debug\net5.0\Billetes.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Billetes\obj\Debug\net5.0\ref\Billetes.dll

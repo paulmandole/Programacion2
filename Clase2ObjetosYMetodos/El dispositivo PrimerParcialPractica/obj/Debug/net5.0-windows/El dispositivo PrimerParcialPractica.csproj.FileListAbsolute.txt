@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\bin\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\bin\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\bin\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\bin\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\bin\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\bin\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\bin\Debug\net5.0-windows\BibliotecaPrimerParcialPractica.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\bin\Debug\net5.0-windows\BibliotecaPrimerParcialPractica.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El_dispositivo_PrimerParcialPractica.Form1.resources
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.csproj.GenerateResource.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\refint\El dispositivo PrimerParcialPractica.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\El dispositivo PrimerParcialPractica.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\El dispositivo PrimerParcialPractica\obj\Debug\net5.0-windows\ref\El dispositivo PrimerParcialPractica.dll

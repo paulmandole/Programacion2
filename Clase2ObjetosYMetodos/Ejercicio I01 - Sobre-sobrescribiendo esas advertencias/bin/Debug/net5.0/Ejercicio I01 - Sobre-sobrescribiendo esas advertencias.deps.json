@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio I01 - Sobre-sobrescribiendo esas advertencias/1.0.0": {
+        "dependencies": {
+          "BibliotecaClase9": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.dll": {}
+        }
+      },
+      "BibliotecaClase9/1.0.0": {
+        "runtime": {
+          "BibliotecaClase9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I01 - Sobre-sobrescribiendo esas advertencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaClase9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HDYAxwibRvtnql0aNsSHBY3nnR4NKCI0VGebdWTr8Eas188BCMVd80O3xLe0IhnTJs7RjwY/w3s/ZcSrfWrjnw==",
+  "success": true,
+  "projectFilePath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\BibliotecaClaseRepasoExcepciones\\BibliotecaClaseRepasoExcepciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

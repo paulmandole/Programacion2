@@ -1,0 +1,19 @@
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\bin\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.exe
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\bin\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.deps.json
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\bin\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.runtimeconfig.json
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\bin\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\bin\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.dll
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\bin\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.pdb
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.AssemblyInfo.cs
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.csproj.CopyComplete
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.dll
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\refint\ClaseInterfacesEjercicio I01 - Cartuchera.dll
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.pdb
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ClaseInterfacesEjercicio I01 - Cartuchera.genruntimeconfig.cache
+F:\practica de clases hechas por mi\ClaseInterfacesEjercicio I01 - Cartuchera\ClaseInterfacesEjercicio I01 - Cartuchera\obj\Debug\net5.0\ref\ClaseInterfacesEjercicio I01 - Cartuchera.dll

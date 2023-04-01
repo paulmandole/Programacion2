@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase7EncapsulamientoEIndexadores/1.0.0": {
+        "dependencies": {
+          "Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "Clase7EncapsulamientoEIndexadores.dll": {}
+        }
+      },
+      "Biblioteca/1.0.0": {
+        "dependencies": {
+          "Geometria": "1.0.0"
+        },
+        "runtime": {
+          "Biblioteca.dll": {}
+        }
+      },
+      "Geometria/1.0.0": {
+        "runtime": {
+          "Geometria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase7EncapsulamientoEIndexadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geometria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

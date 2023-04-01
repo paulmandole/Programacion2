@@ -1,0 +1,24 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Ejercicio I02 - Registrate.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Ejercicio I02 - Registrate.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Ejercicio I02 - Registrate.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Ejercicio I02 - Registrate.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Ejercicio I02 - Registrate.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Ejercicio I02 - Registrate.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\bin\Debug\net5.0-windows\Geometria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio_I02___Registrate.Form1.resources
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio_I02___Registrate.Properties.Resources.resources
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.csproj.GenerateResource.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\refint\Ejercicio I02 - Registrate.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\Ejercicio I02 - Registrate.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Registrate\obj\Debug\net5.0-windows\ref\Ejercicio I02 - Registrate.dll

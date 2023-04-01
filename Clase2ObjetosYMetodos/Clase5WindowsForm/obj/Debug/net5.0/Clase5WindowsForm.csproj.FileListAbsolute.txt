@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\bin\Debug\net5.0\Clase5WindowsForm.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\bin\Debug\net5.0\Clase5WindowsForm.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\bin\Debug\net5.0\Clase5WindowsForm.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\bin\Debug\net5.0\Clase5WindowsForm.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\bin\Debug\net5.0\Clase5WindowsForm.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\bin\Debug\net5.0\Clase5WindowsForm.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\Clase5WindowsForm.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\Clase5WindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\Clase5WindowsForm.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\Clase5WindowsForm.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\Clase5WindowsForm.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\Clase5WindowsForm.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\refint\Clase5WindowsForm.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\Clase5WindowsForm.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\Clase5WindowsForm.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase5WindowsForm\obj\Debug\net5.0\ref\Clase5WindowsForm.dll

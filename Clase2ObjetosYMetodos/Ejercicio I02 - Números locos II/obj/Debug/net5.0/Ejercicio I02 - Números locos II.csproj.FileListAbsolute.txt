@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\bin\Debug\net5.0\Ejercicio I02 - Números locos II.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\bin\Debug\net5.0\Ejercicio I02 - Números locos II.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\bin\Debug\net5.0\Ejercicio I02 - Números locos II.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\bin\Debug\net5.0\Ejercicio I02 - Números locos II.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\bin\Debug\net5.0\Ejercicio I02 - Números locos II.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\bin\Debug\net5.0\Ejercicio I02 - Números locos II.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\Ejercicio I02 - Números locos II.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\Ejercicio I02 - Números locos II.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\Ejercicio I02 - Números locos II.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\Ejercicio I02 - Números locos II.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\Ejercicio I02 - Números locos II.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\Ejercicio I02 - Números locos II.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\refint\Ejercicio I02 - Números locos II.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\Ejercicio I02 - Números locos II.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\Ejercicio I02 - Números locos II.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Números locos II\obj\Debug\net5.0\ref\Ejercicio I02 - Números locos II.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio C01 - Herencia deportiva/1.0.0": {
+        "dependencies": {
+          "BibliotecaClase8": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio C01 - Herencia deportiva.dll": {}
+        }
+      },
+      "BibliotecaClase8/1.0.0": {
+        "runtime": {
+          "BibliotecaClase8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio C01 - Herencia deportiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaClase8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase9polimorfismo/1.0.0": {
+        "dependencies": {
+          "BibliotecaClase9": "1.0.0"
+        },
+        "runtime": {
+          "Clase9polimorfismo.dll": {}
+        }
+      },
+      "BibliotecaClase9/1.0.0": {
+        "runtime": {
+          "BibliotecaClase9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase9polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaClase9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

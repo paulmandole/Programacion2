@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net5.0\Geometria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\refint\Ejercicio I01 - Lanzar y atrapar.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01 - Lanzar y atrapar.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net5.0\ref\Ejercicio I01 - Lanzar y atrapar.dll

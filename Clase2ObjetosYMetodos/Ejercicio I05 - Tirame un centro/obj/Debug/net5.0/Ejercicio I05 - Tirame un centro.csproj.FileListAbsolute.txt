@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\bin\Debug\net5.0\Ejercicio I05 - Tirame un centro.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\bin\Debug\net5.0\Ejercicio I05 - Tirame un centro.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\bin\Debug\net5.0\Ejercicio I05 - Tirame un centro.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\bin\Debug\net5.0\Ejercicio I05 - Tirame un centro.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\bin\Debug\net5.0\Ejercicio I05 - Tirame un centro.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\bin\Debug\net5.0\Ejercicio I05 - Tirame un centro.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\Ejercicio I05 - Tirame un centro.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\Ejercicio I05 - Tirame un centro.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\Ejercicio I05 - Tirame un centro.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\Ejercicio I05 - Tirame un centro.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\Ejercicio I05 - Tirame un centro.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\Ejercicio I05 - Tirame un centro.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\refint\Ejercicio I05 - Tirame un centro.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\Ejercicio I05 - Tirame un centro.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\Ejercicio I05 - Tirame un centro.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Tirame un centro\obj\Debug\net5.0\ref\Ejercicio I05 - Tirame un centro.dll

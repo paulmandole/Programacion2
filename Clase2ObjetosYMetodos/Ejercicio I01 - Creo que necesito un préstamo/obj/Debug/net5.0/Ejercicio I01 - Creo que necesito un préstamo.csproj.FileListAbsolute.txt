@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\refint\Ejercicio I01 - Creo que necesito un préstamo.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\ref\Ejercicio I01 - Creo que necesito un préstamo.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Geometria.pdb

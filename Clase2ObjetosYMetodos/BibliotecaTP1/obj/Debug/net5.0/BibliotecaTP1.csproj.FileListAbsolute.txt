@@ -1,0 +1,12 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\bin\Debug\net5.0\BibliotecaTP1.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\bin\Debug\net5.0\BibliotecaTP1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\bin\Debug\net5.0\BibliotecaTP1.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\obj\Debug\net5.0\BibliotecaTP1.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\obj\Debug\net5.0\BibliotecaTP1.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\obj\Debug\net5.0\BibliotecaTP1.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\obj\Debug\net5.0\BibliotecaTP1.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\obj\Debug\net5.0\BibliotecaTP1.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\obj\Debug\net5.0\BibliotecaTP1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\obj\Debug\net5.0\refint\BibliotecaTP1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\obj\Debug\net5.0\BibliotecaTP1.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaTP1\obj\Debug\net5.0\ref\BibliotecaTP1.dll

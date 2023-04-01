@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Ejercicio A02 - La veterinaria.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Ejercicio A02 - La veterinaria.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Ejercicio A02 - La veterinaria.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Ejercicio A02 - La veterinaria.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Ejercicio A02 - La veterinaria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Ejercicio A02 - La veterinaria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\bin\Debug\net5.0\Geometria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\Ejercicio A02 - La veterinaria.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\Ejercicio A02 - La veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\Ejercicio A02 - La veterinaria.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\Ejercicio A02 - La veterinaria.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\Ejercicio A02 - La veterinaria.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\Ejercicio A02 - La veterinaria.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\Ejercicio A02 - La veterinaria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\refint\Ejercicio A02 - La veterinaria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\Ejercicio A02 - La veterinaria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\Ejercicio A02 - La veterinaria.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio A02 - La veterinaria\obj\Debug\net5.0\ref\Ejercicio A02 - La veterinaria.dll

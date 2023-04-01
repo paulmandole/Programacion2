@@ -1,0 +1,22 @@
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\bin\Debug\net5.0-windows\Ejercicio I01 - La lista del super.exe
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\bin\Debug\net5.0-windows\Ejercicio I01 - La lista del super.deps.json
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\bin\Debug\net5.0-windows\Ejercicio I01 - La lista del super.runtimeconfig.json
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\bin\Debug\net5.0-windows\Ejercicio I01 - La lista del super.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\bin\Debug\net5.0-windows\Ejercicio I01 - La lista del super.dll
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\bin\Debug\net5.0-windows\Ejercicio I01 - La lista del super.pdb
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\bin\Debug\net5.0-windows\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\bin\Debug\net5.0-windows\Biblioteca.pdb
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio_I01___La_lista_del_super.Form1.resources
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.csproj.GenerateResource.cache
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.AssemblyInfo.cs
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.csproj.CopyComplete
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.dll
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\refint\Ejercicio I01 - La lista del super.dll
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.pdb
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio I01 - La lista del super.genruntimeconfig.cache
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\ref\Ejercicio I01 - La lista del super.dll
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio I01 - La lista del super\Ejercicio I01 - La lista del super\obj\Debug\net5.0-windows\Ejercicio_I01___La_lista_del_super.FrmAltaModificacion.resources

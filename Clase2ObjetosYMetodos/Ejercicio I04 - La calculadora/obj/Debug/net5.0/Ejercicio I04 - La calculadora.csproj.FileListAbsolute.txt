@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\refint\Ejercicio I04 - La calculadora.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\obj\Debug\net5.0\ref\Ejercicio I04 - La calculadora.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Geometria.pdb

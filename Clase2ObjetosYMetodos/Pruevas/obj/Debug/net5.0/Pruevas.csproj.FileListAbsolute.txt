@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\bin\Debug\net5.0\Pruevas.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\bin\Debug\net5.0\Pruevas.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\bin\Debug\net5.0\Pruevas.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\bin\Debug\net5.0\Pruevas.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\bin\Debug\net5.0\Pruevas.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\bin\Debug\net5.0\Pruevas.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\Pruevas.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\Pruevas.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\Pruevas.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\Pruevas.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\Pruevas.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\Pruevas.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\refint\Pruevas.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\Pruevas.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\Pruevas.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Pruevas\obj\Debug\net5.0\ref\Pruevas.dll

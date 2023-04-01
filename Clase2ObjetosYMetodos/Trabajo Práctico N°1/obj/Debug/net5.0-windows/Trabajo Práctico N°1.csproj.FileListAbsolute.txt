@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\bin\Debug\net5.0-windows\Trabajo Práctico N°1.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\bin\Debug\net5.0-windows\Trabajo Práctico N°1.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\bin\Debug\net5.0-windows\Trabajo Práctico N°1.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\bin\Debug\net5.0-windows\Trabajo Práctico N°1.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\bin\Debug\net5.0-windows\Trabajo Práctico N°1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\bin\Debug\net5.0-windows\Trabajo Práctico N°1.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo_Práctico_N_1.MiCalculadora.resources
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.csproj.GenerateResource.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\refint\Trabajo Práctico N°1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\ref\Trabajo Práctico N°1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\bin\Debug\net5.0-windows\BibliotecaTP1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\bin\Debug\net5.0-windows\BibliotecaTP1.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Trabajo Práctico N°1\obj\Debug\net5.0-windows\Trabajo Práctico N°1.csproj.CopyComplete

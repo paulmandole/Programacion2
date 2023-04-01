@@ -1,0 +1,19 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\bin\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\bin\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\bin\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\bin\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\bin\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\bin\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\bin\Debug\net5.0\BibliotecaCentralita.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\bin\Debug\net5.0\BibliotecaCentralita.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\refint\Ejercicio C03 - La centralitaEpisodio1.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\Ejercicio C03 - La centralitaEpisodio1.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C03 - La centralitaEpisodio1\obj\Debug\net5.0\ref\Ejercicio C03 - La centralitaEpisodio1.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Trabajo Práctico N°1/1.0.0": {
+        "dependencies": {
+          "BibliotecaTP1": "1.0.0"
+        },
+        "runtime": {
+          "Trabajo Práctico N°1.dll": {}
+        }
+      },
+      "BibliotecaTP1/1.0.0": {
+        "runtime": {
+          "BibliotecaTP1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabajo Práctico N°1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaTP1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

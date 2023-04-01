@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\bin\Debug\net5.0\Ejercicio2.exe
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\bin\Debug\net5.0\Ejercicio2.deps.json
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\bin\Debug\net5.0\Ejercicio2.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\bin\Debug\net5.0\Ejercicio2.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\bin\Debug\net5.0\Ejercicio2.dll
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\bin\Debug\net5.0\Ejercicio2.pdb
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\Ejercicio2.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\Ejercicio2.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\Ejercicio2.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\Ejercicio2.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\Ejercicio2.dll
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\refint\Ejercicio2.dll
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\Ejercicio2.pdb
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\Ejercicio2.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase1PrimerProyecto\Ejercicio2\obj\Debug\net5.0\ref\Ejercicio2.dll

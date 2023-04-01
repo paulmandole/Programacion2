@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\Ejercicio I01 - Puesto de atención.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\Ejercicio I01 - Puesto de atención.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\Ejercicio I01 - Puesto de atención.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\Ejercicio I01 - Puesto de atención.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\Ejercicio I01 - Puesto de atención.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Ejercicio I01 - Puesto de atención.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Ejercicio I01 - Puesto de atención.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Ejercicio I01 - Puesto de atención.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Ejercicio I01 - Puesto de atención.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Ejercicio I01 - Puesto de atención.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Ejercicio I01 - Puesto de atención.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\bin\Debug\net5.0\Geometria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\Ejercicio I01 - Puesto de atención.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\Ejercicio I01 - Puesto de atención.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\refint\Ejercicio I01 - Puesto de atención.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\Ejercicio I01 - Puesto de atención.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\Ejercicio I01 - Puesto de atención.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - Puesto de atención\obj\Debug\net5.0\ref\Ejercicio I01 - Puesto de atención.dll

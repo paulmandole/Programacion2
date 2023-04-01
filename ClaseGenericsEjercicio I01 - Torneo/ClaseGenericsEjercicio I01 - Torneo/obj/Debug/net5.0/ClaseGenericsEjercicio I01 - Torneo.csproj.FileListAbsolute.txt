@@ -1,0 +1,19 @@
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\bin\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.exe
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\bin\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.deps.json
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\bin\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.runtimeconfig.json
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\bin\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\bin\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.dll
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\bin\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.pdb
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.AssemblyInfo.cs
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.csproj.CopyComplete
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.dll
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\refint\ClaseGenericsEjercicio I01 - Torneo.dll
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.pdb
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ClaseGenericsEjercicio I01 - Torneo.genruntimeconfig.cache
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I01 - Torneo\ClaseGenericsEjercicio I01 - Torneo\obj\Debug\net5.0\ref\ClaseGenericsEjercicio I01 - Torneo.dll

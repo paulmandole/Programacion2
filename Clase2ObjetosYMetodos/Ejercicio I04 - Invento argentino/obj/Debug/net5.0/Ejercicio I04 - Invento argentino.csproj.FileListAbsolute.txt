@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\refint\Ejercicio I04 - Invento argentino.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\ref\Ejercicio I04 - Invento argentino.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Geometria.pdb

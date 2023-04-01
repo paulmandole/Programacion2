@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\bin\Debug\net5.0\Clase19Task.exe
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\bin\Debug\net5.0\Clase19Task.deps.json
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\bin\Debug\net5.0\Clase19Task.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\bin\Debug\net5.0\Clase19Task.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\bin\Debug\net5.0\Clase19Task.dll
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\bin\Debug\net5.0\Clase19Task.pdb
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\Clase19Task.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\Clase19Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\Clase19Task.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\Clase19Task.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\Clase19Task.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\Clase19Task.dll
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\refint\Clase19Task.dll
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\Clase19Task.pdb
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\Clase19Task.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase19Delegados\Clase19Delegados\obj\Debug\net5.0\ref\Clase19Task.dll

@@ -1,0 +1,19 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\bin\Debug\net5.0\Ejercicio I01 - El viajar es un placer.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\bin\Debug\net5.0\Ejercicio I01 - El viajar es un placer.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\bin\Debug\net5.0\Ejercicio I01 - El viajar es un placer.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\bin\Debug\net5.0\Ejercicio I01 - El viajar es un placer.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\bin\Debug\net5.0\Ejercicio I01 - El viajar es un placer.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\bin\Debug\net5.0\Ejercicio I01 - El viajar es un placer.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\bin\Debug\net5.0\BibliotecaClase8.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\bin\Debug\net5.0\BibliotecaClase8.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\Ejercicio I01 - El viajar es un placer.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\Ejercicio I01 - El viajar es un placer.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\Ejercicio I01 - El viajar es un placer.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\Ejercicio I01 - El viajar es un placer.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\Ejercicio I01 - El viajar es un placer.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\Ejercicio I01 - El viajar es un placer.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\Ejercicio I01 - El viajar es un placer.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\refint\Ejercicio I01 - El viajar es un placer.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\Ejercicio I01 - El viajar es un placer.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\Ejercicio I01 - El viajar es un placer.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I01 - El viajar es un placer\obj\Debug\net5.0\ref\Ejercicio I01 - El viajar es un placer.dll

@@ -1,0 +1,19 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\bin\Debug\net5.0\Ejercicio I05 - Prueba de geometría.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\bin\Debug\net5.0\Ejercicio I05 - Prueba de geometría.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\bin\Debug\net5.0\Ejercicio I05 - Prueba de geometría.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\bin\Debug\net5.0\Ejercicio I05 - Prueba de geometría.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\bin\Debug\net5.0\Ejercicio I05 - Prueba de geometría.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\bin\Debug\net5.0\Ejercicio I05 - Prueba de geometría.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\bin\Debug\net5.0\Geometria.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\bin\Debug\net5.0\Geometria.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\Ejercicio I05 - Prueba de geometría.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\Ejercicio I05 - Prueba de geometría.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\Ejercicio I05 - Prueba de geometría.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\Ejercicio I05 - Prueba de geometría.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\Ejercicio I05 - Prueba de geometría.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\Ejercicio I05 - Prueba de geometría.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\Ejercicio I05 - Prueba de geometría.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\refint\Ejercicio I05 - Prueba de geometría.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\Ejercicio I05 - Prueba de geometría.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\Ejercicio I05 - Prueba de geometría.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Prueba de geometría\obj\Debug\net5.0\ref\Ejercicio I05 - Prueba de geometría.dll

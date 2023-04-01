@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio I01 - El viajar es un placer/1.0.0": {
+        "dependencies": {
+          "BibliotecaClase8": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I01 - El viajar es un placer.dll": {}
+        }
+      },
+      "BibliotecaClase8/1.0.0": {
+        "runtime": {
+          "BibliotecaClase8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I01 - El viajar es un placer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaClase8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

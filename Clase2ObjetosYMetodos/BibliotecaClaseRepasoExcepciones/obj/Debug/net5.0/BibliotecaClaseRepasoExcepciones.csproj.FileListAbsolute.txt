@@ -1,0 +1,12 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\bin\Debug\net5.0\BibliotecaClaseRepasoExcepciones.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\bin\Debug\net5.0\BibliotecaClaseRepasoExcepciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\bin\Debug\net5.0\BibliotecaClaseRepasoExcepciones.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\obj\Debug\net5.0\BibliotecaClaseRepasoExcepciones.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\obj\Debug\net5.0\BibliotecaClaseRepasoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\obj\Debug\net5.0\BibliotecaClaseRepasoExcepciones.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\obj\Debug\net5.0\BibliotecaClaseRepasoExcepciones.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\obj\Debug\net5.0\BibliotecaClaseRepasoExcepciones.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\obj\Debug\net5.0\BibliotecaClaseRepasoExcepciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\obj\Debug\net5.0\refint\BibliotecaClaseRepasoExcepciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\obj\Debug\net5.0\BibliotecaClaseRepasoExcepciones.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClaseRepasoExcepciones\obj\Debug\net5.0\ref\BibliotecaClaseRepasoExcepciones.dll

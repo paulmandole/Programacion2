@@ -1,0 +1,1 @@
+F:\practica de clases hechas por mi\PruevasUnitarias - Ejercicio I01 - Test Driven Development\PruevasUnitarias - Ejercicio I01 - Test Driven Development\obj\Debug\net5.0\PruevasUnitarias - Ejercicio I01 - Test Driven Development.GeneratedMSBuildEditorConfig.editorconfig

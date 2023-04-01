@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\bin\Debug\net5.0\Clase 6 Colecciones.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\bin\Debug\net5.0\Clase 6 Colecciones.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\bin\Debug\net5.0\Clase 6 Colecciones.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\bin\Debug\net5.0\Clase 6 Colecciones.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\bin\Debug\net5.0\Clase 6 Colecciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\bin\Debug\net5.0\Clase 6 Colecciones.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\Clase 6 Colecciones.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\Clase 6 Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\Clase 6 Colecciones.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\Clase 6 Colecciones.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\Clase 6 Colecciones.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\Clase 6 Colecciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\refint\Clase 6 Colecciones.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\Clase 6 Colecciones.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\Clase 6 Colecciones.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Clase 6 Colecciones\obj\Debug\net5.0\ref\Clase 6 Colecciones.dll

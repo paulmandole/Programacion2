@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9KeYAOm9rCpg1aQ5XuzwLzzmBPtjUUT7Hzt00BC+cQdVYDGO0DcKPBGh9OzqQC21dMjMgoif204RhQG7XMBSg==",
+  "success": true,
+  "projectFilePath": "F:\\progrmacion2c#\\Clase2ObjetosYMetodos\\BibliotecaPrimerParcialPractica\\BibliotecaPrimerParcialPractica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

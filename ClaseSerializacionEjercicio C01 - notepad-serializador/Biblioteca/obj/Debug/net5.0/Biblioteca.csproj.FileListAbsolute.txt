@@ -1,0 +1,24 @@
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\ClaseArchivosEjercicio I03 - Siempre quise tener un notepad ಥ‿ಥ\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\ClaseSerializacionEjercicio C01 - notepad-serializador\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

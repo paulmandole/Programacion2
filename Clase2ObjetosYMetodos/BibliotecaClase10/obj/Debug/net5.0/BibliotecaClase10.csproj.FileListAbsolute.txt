@@ -1,0 +1,12 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\bin\Debug\net5.0\BibliotecaClase10.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\bin\Debug\net5.0\BibliotecaClase10.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\bin\Debug\net5.0\BibliotecaClase10.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\obj\Debug\net5.0\BibliotecaClase10.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\obj\Debug\net5.0\BibliotecaClase10.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\obj\Debug\net5.0\BibliotecaClase10.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\obj\Debug\net5.0\BibliotecaClase10.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\obj\Debug\net5.0\BibliotecaClase10.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\obj\Debug\net5.0\BibliotecaClase10.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\obj\Debug\net5.0\refint\BibliotecaClase10.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\obj\Debug\net5.0\BibliotecaClase10.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaClase10\obj\Debug\net5.0\ref\BibliotecaClase10.dll

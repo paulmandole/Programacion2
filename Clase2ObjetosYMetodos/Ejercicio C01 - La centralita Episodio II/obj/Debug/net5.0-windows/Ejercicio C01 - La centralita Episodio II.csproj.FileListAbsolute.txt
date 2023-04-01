@@ -1,0 +1,23 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\bin\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\bin\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\bin\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\bin\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\bin\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\bin\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\bin\Debug\net5.0-windows\BibliotecaCentralita.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\bin\Debug\net5.0-windows\BibliotecaCentralita.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio_C01___La_centralita_Episodio_II.FrmMenu.resources
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.csproj.GenerateResource.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.csproj.CopyComplete
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\refint\Ejercicio C01 - La centralita Episodio II.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio C01 - La centralita Episodio II.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\ref\Ejercicio C01 - La centralita Episodio II.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio_C01___La_centralita_Episodio_II.FrmLlamador.resources
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio C01 - La centralita Episodio II\obj\Debug\net5.0-windows\Ejercicio_C01___La_centralita_Episodio_II.FrmMostrar.resources

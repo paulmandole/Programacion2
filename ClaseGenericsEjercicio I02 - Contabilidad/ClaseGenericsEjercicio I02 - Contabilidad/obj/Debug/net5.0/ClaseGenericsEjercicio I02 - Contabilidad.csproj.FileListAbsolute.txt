@@ -1,0 +1,19 @@
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.AssemblyInfo.cs
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\bin\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.exe
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\bin\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.deps.json
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\bin\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.runtimeconfig.json
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\bin\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\bin\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.dll
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\bin\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.pdb
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\bin\Debug\net5.0\Biblioteca.dll
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\bin\Debug\net5.0\Biblioteca.pdb
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.csproj.CopyComplete
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.dll
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\refint\ClaseGenericsEjercicio I02 - Contabilidad.dll
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.pdb
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ClaseGenericsEjercicio I02 - Contabilidad.genruntimeconfig.cache
+F:\practica de clases hechas por mi\ClaseGenericsEjercicio I02 - Contabilidad\ClaseGenericsEjercicio I02 - Contabilidad\obj\Debug\net5.0\ref\ClaseGenericsEjercicio I02 - Contabilidad.dll

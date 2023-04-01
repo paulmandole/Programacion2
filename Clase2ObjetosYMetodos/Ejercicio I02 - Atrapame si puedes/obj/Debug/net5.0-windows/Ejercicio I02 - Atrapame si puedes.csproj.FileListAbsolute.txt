@@ -1,0 +1,21 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio_I02___Atrapame_si_puedes.Form1.resources
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.csproj.GenerateResource.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\refint\Ejercicio I02 - Atrapame si puedes.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\ref\Ejercicio I02 - Atrapame si puedes.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\bin\Debug\net5.0-windows\BibliotecaClase10.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\bin\Debug\net5.0-windows\BibliotecaClase10.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I02 - Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02 - Atrapame si puedes.csproj.CopyComplete

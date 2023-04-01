@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio I02 - Atrapame si puedes/1.0.0": {
+        "dependencies": {
+          "BibliotecaClase10": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I02 - Atrapame si puedes.dll": {}
+        }
+      },
+      "BibliotecaClase10/1.0.0": {
+        "runtime": {
+          "BibliotecaClase10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I02 - Atrapame si puedes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaClase10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

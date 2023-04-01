@@ -1,0 +1,12 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\bin\Debug\net5.0\BibliotecaPrimerParcialPractica.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\bin\Debug\net5.0\BibliotecaPrimerParcialPractica.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\bin\Debug\net5.0\BibliotecaPrimerParcialPractica.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\obj\Debug\net5.0\BibliotecaPrimerParcialPractica.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\obj\Debug\net5.0\BibliotecaPrimerParcialPractica.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\obj\Debug\net5.0\BibliotecaPrimerParcialPractica.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\obj\Debug\net5.0\BibliotecaPrimerParcialPractica.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\obj\Debug\net5.0\BibliotecaPrimerParcialPractica.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\obj\Debug\net5.0\BibliotecaPrimerParcialPractica.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\obj\Debug\net5.0\refint\BibliotecaPrimerParcialPractica.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\obj\Debug\net5.0\BibliotecaPrimerParcialPractica.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\BibliotecaPrimerParcialPractica\obj\Debug\net5.0\ref\BibliotecaPrimerParcialPractica.dll

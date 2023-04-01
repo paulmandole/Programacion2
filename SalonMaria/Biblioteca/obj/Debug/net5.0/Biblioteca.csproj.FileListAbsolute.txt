@@ -1,0 +1,12 @@
+F:\progrmacion2c#\SalonMaria\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+F:\progrmacion2c#\SalonMaria\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+F:\progrmacion2c#\SalonMaria\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+F:\progrmacion2c#\SalonMaria\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+F:\progrmacion2c#\SalonMaria\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+F:\progrmacion2c#\SalonMaria\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+F:\progrmacion2c#\SalonMaria\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+F:\progrmacion2c#\SalonMaria\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+F:\progrmacion2c#\SalonMaria\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+F:\progrmacion2c#\SalonMaria\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+F:\progrmacion2c#\SalonMaria\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+F:\progrmacion2c#\SalonMaria\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

@@ -1,0 +1,16 @@
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.exe
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.deps.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.runtimeconfig.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.runtimeconfig.dev.json
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.csproj.AssemblyReference.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.GeneratedMSBuildEditorConfig.editorconfig
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.AssemblyInfoInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.AssemblyInfo.cs
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.csproj.CoreCompileInputs.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\refint\Ejercicio I05 - Aprendete las tablas.dll
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.pdb
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\Ejercicio I05 - Aprendete las tablas.genruntimeconfig.cache
+F:\practica de clases hechas por mi\Clase2ObjetosYMetodos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net5.0\ref\Ejercicio I05 - Aprendete las tablas.dll
